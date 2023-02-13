@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ac07b85.css",
+    "main.js": "/static/js/main.093d12f4.js",
+    "static/js/787.ad18ae7e.chunk.js": "/static/js/787.ad18ae7e.chunk.js",
+    "static/media/micro.jpg": "/static/media/micro.9e14193388c2034b9b16.jpg",
+    "static/media/lux.jpg": "/static/media/lux.ebf26fe4429a87432e4d.jpg",
+    "static/media/electric.jpg": "/static/media/electric.5181d88865f479084736.jpg",
+    "static/media/logo.png": "/static/media/logo.a8099cad6f9c7706b03d.png",
+    "static/media/img2.jpg": "/static/media/img2.1cc951e505766c7b84d0.jpg",
+    "static/media/img3.jpg": "/static/media/img3.eac2132737b81e49f6fc.jpg",
+    "static/media/img1.jpg": "/static/media/img1.4a7dee4284ea0825c829.jpg",
+    "static/media/001-tire.png": "/static/media/001-tire.a2b579232c0c1a7f02a9.png",
+    "static/media/002-steering-wheel.png": "/static/media/002-steering-wheel.23ab8ea1ea3cf508ef4c.png",
+    "static/media/004-tachometer.png": "/static/media/004-tachometer.ab219a984985c6b66c31.png",
+    "index.html": "/index.html",
+    "main.7ac07b85.css.map": "/static/css/main.7ac07b85.css.map",
+    "main.093d12f4.js.map": "/static/js/main.093d12f4.js.map",
+    "787.ad18ae7e.chunk.js.map": "/static/js/787.ad18ae7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac07b85.css",
+    "static/js/main.093d12f4.js"
+  ]
+}
